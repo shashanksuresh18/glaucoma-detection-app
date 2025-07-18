@@ -1,9 +1,9 @@
-streamlit==1.41.1
+streamlit==1.25.0
 tensorflow==2.15.0
-keras==3.0.0
-pillow==11.0.0
-numpy==2.0.2
-matplotlib==3.9.3
-pandas==2.2.2
-scikit-learn==1.5.2
+keras==2.15.0
+pillow
+numpy
+matplotlib
+pandas
+scikit-learn
 opencv-python
