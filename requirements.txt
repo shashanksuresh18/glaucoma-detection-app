@@ -1,9 +1,6 @@
-streamlit==1.25.0
-tensorflow==2.15.0
-keras==2.15.0
-pillow
-numpy
-matplotlib
+# requirements.txt
+streamlit
+tensorflow
 pandas
+Pillow
 scikit-learn
-opencv-python
